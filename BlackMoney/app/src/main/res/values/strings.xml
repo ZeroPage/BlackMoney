@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">BlackMoney</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_recie">Recie</string>
+    <string name="title_activity_test_activity">test_activity</string>
 </resources>
